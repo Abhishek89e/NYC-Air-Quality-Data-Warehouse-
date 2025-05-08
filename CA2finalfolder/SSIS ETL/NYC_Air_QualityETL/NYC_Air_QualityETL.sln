@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "NYC_Air_QualityETL", "NYC_Air_QualityETL\NYC_Air_QualityETL.dtproj", "{99B6AC7B-6E0A-4578-B622-BD836EC8B184}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99B6AC7B-6E0A-4578-B622-BD836EC8B184}.Development|Default.ActiveCfg = Development
+		{99B6AC7B-6E0A-4578-B622-BD836EC8B184}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4598F492-95F8-40E8-9220-3785D9700248}
+	EndGlobalSection
+EndGlobal
